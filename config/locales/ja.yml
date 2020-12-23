@@ -17,6 +17,10 @@ ja:
     memo: 'メモ:'
     author: '著者:'
     picture: '画像:'
+  respond:
+    success: 本の登録に成功しました 
+    update: 本の編集に成功しました
+    destroy: 本の削除に成功しました
   helpers:
     submit:
       create: 登録する
