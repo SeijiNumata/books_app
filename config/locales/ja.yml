@@ -2,6 +2,7 @@ ja:
   titles:
     books: 本一覧
     edit_book: 本編集
+    new_book: 新規追加
   title: タイトル
   memo: メモ
   author: 著者

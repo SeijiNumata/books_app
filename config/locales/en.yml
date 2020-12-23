@@ -33,6 +33,7 @@ en:
   titles:
     books: Books
     edit_book: 'Edit book'
+    new_book: 'New book'
   title: Title
   memo: Memo
   author: Author
