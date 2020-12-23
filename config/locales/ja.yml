@@ -1,4 +1,7 @@
 ja:
+  titles:
+    books: 本一覧
+    edit_book: 本編集
   title: タイトル
   memo: メモ
   author: 著者
@@ -9,3 +12,13 @@ ja:
     show: 詳細
     destroy: 削除
     new_book: 新規作成
+  description:
+    title: 'タイトル:'
+    memo: 'メモ:'
+    author: '著者:'
+    picture: '画像:'
+  helpers:
+    submit:
+      create: 登録する
+      update: 更新する
+      submit: 保存する

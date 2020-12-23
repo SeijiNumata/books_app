@@ -30,13 +30,14 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
+  books: Books
   title: Title
   memo: Memo
   author: Author
   pictre: Picture
   button:
-    edit: 編集
-    back: 戻る
-    show: 詳細
-    destroy: 削除
-    new_book: 新規作成
+    edit: Edit
+    back: Back
+    show: Show
+    destroy: Destroy
+    new_book: 'New Book'
