@@ -27,3 +27,18 @@ ja:
       create: 登録する
       update: 更新する
       submit: 保存する
+  activerecord:
+    errors:
+      models:
+        book:
+          attributes:
+            title:
+              blank: "空になっています。入力してください。"
+            memo:
+              blank: "空になっています。入力してください。"
+    models:
+      book: 
+    attributes: 
+      book:
+        title: "タイトル"
+        memo: "メモ"
