@@ -56,9 +56,3 @@ ja:
               blank: "空になっています。入力してください。"
     models:
       book: '本'
-    attributes: 
-      book:
-        title: "タイトル"
-        memo: "メモ"
-        author: '著者'
-        picture: '画像'
