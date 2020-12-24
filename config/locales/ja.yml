@@ -1,23 +1,30 @@
 ja:
-  titles:
-    books: 本一覧
-    edit_book: 本編集
-    new_book: 新規追加
-  title: タイトル
-  memo: メモ
-  author: 著者
-  picture: 画像
+  attributes:
+    title: タイトル
+    memo: メモ
+    author: 著者
+    picture: 画像
   button:
     edit: 編集
     back: 戻る
     show: 詳細
     destroy: 削除
     new_book: 新規作成
-  description:
+  index:
+    books: 本一覧
+    title: タイトル
+    memo: メモ
+    author: 著者
+    picture: 画像
+  show:
     title: 'タイトル:'
     memo: 'メモ:'
     author: '著者:'
     picture: '画像:'
+  edit:
+    book: '本の編集'
+  new:
+    book: '新規追加'
   respond:
     success: 本の登録に成功しました 
     update: 本の編集に成功しました
@@ -37,8 +44,10 @@ ja:
             memo:
               blank: "空になっています。入力してください。"
     models:
-      book: 
+      book: '本'
     attributes: 
       book:
         title: "タイトル"
         memo: "メモ"
+        author: '著者'
+        picture: '画像'
